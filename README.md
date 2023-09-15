@@ -1,3 +1,3 @@
 # PIAIC-Assignment
 PIAIC Assignment of typescript and Node.js
-and for quick review click here https://iihtisham.github.io/PIAIC-Assignment/
+All the questions are solve in one file and all the codes is in index.ts file
